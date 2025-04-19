@@ -11,3 +11,7 @@ Manipulação de Dados: Trabalhe com datasets personalizados e do pacote Torchvi
 Avaliação de Modelos: Utilize bibliotecas como TorchMetrics para medir o desempenho de seus modelos.
 
 Aplicações Práticas: Explore o uso de aprendizado profundo em imagens, texto e outros tipos de dados sequenciais.
+
+Abaixo há uma imagem que define o início do aprendizado de machine learning.
+
+![image](https://github.com/user-attachments/assets/4c650241-0c83-4148-b698-f7c0fe58e749)
