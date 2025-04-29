@@ -15,3 +15,15 @@ Aplicações Práticas: Explore o uso de aprendizado profundo em imagens, texto 
 Abaixo há uma imagem que define o início do aprendizado de machine learning.
 
 ![image](https://github.com/user-attachments/assets/4c650241-0c83-4148-b698-f7c0fe58e749)
+
+# Tensor
+
+Um tensor é uma estrutura de dados usada para representar números em várias dimensões. Ele é o principal tipo de dado usado no PyTorch (e também no TensorFlow) para construir e treinar modelos de machine learning e deep learning.
+
+Por que usar tensores?
+
+Eles representam entradas, pesos e saídas em redes neurais.
+
+Funcionam rapidamente com GPU.
+
+Permitem fazer operações matemáticas complexas em grandes volumes de dados.
