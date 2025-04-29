@@ -29,7 +29,11 @@ Um tensor é uma estrutura de dados usada para representar números em várias d
 Por que usar tensores?
 
 Eles representam entradas, pesos e saídas em redes neurais.
-
 Funcionam rapidamente com GPU.
-
 Permitem fazer operações matemáticas complexas em grandes volumes de dados.
+
+Por que tensores aleatórios?
+
+Os tensores aleatórios são importantes porque muitas redes neurais aprendem começando com um tensor cheio de números aleatórios e depois ajustam esses números para representar melhor os dados.
+
+"Iniciar com números aleatórios -> observar os dados -> atualizar os números aleatórios -> observar os dados -> atualizar os números aleatórios"
