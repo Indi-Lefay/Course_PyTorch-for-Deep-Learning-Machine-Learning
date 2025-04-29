@@ -16,6 +16,10 @@ Abaixo há uma imagem que define o início do aprendizado de machine learning.
 
 ![image](https://github.com/user-attachments/assets/4c650241-0c83-4148-b698-f7c0fe58e749)
 
+https://th.bing.com/th/id/OIP.pUr-9ctuGamgjSwoW_KU-AHaCn?rs=1&pid=ImgDetMain
+# Vetor
+
+
 # Tensor
 
 Um tensor é uma estrutura de dados usada para representar números em várias dimensões. Ele é o principal tipo de dado usado no PyTorch (e também no TensorFlow) para construir e treinar modelos de machine learning e deep learning.
